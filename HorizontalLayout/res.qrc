@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/name">
+        <file>V7.mp4</file>
+        <file>index.jpeg</file>
+    </qresource>
+</RCC>
